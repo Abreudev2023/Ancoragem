@@ -1,0 +1,17 @@
+#div{
+   background-color: red; 
+}
+.div2{
+    background-color: green;
+    height: 200px;
+    width: 200px;
+}
+div{
+    background-color: yellow;
+    height: 200px;
+    width: 200px;
+}
+
+body{
+    background-color: grey;
+}
